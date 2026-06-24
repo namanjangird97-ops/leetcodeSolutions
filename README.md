@@ -24,6 +24,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -50,6 +51,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
