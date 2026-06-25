@@ -40,10 +40,12 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Binary Search
 |  |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
