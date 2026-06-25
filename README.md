@@ -42,12 +42,14 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Binary Search
 |  |
@@ -66,4 +68,9 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
