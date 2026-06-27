@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0814-binary-tree-pruning) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0814-binary-tree-pruning) |
@@ -125,6 +127,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0814-binary-tree-pruning) |
@@ -133,4 +136,8 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0113-path-sum-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
