@@ -111,16 +111,19 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0814-binary-tree-pruning) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0814-binary-tree-pruning) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0814-binary-tree-pruning) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
 <!---LeetCode Topics End-->
