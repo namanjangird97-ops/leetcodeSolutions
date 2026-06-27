@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -27,6 +28,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -80,6 +82,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -101,4 +104,12 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
