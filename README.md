@@ -8,6 +8,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -36,6 +37,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Queue
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0112-path-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
