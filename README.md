@@ -70,6 +70,7 @@
 | [0074-search-a-2d-matrix](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
 |  |
@@ -115,6 +116,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0814-binary-tree-pruning) |
@@ -125,6 +127,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0814-binary-tree-pruning) |
@@ -159,4 +162,8 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
