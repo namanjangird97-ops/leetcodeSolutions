@@ -116,6 +116,7 @@
 | [0112-path-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0814-binary-tree-pruning) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Tree
@@ -125,6 +126,7 @@
 | [0112-path-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0814-binary-tree-pruning) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Depth-First Search
@@ -133,6 +135,7 @@
 | [0112-path-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0814-binary-tree-pruning) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Backtracking
@@ -143,6 +146,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0112-path-sum) |
+| [0623-add-one-row-to-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0623-add-one-row-to-tree) |
 ## Enumeration
 |  |
 | ------- |
