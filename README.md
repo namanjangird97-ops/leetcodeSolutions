@@ -7,6 +7,7 @@
 | [0076-minimum-window-substring](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -41,6 +43,7 @@
 | [0219-contains-duplicate-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0704-binary-search) |
+| [0930-binary-subarrays-with-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -120,6 +123,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
