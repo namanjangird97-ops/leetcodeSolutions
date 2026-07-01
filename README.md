@@ -39,6 +39,7 @@
 | [0198-house-robber](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0704-binary-search) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -77,6 +78,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
