@@ -43,6 +43,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -79,6 +80,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0704-binary-search) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -172,8 +174,13 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
+## Two Pointers
+|  |
+| ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
