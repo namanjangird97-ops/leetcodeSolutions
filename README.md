@@ -52,6 +52,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -90,10 +91,12 @@
 | [0713-subarray-product-less-than-k](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -174,6 +177,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0623-add-one-row-to-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0623-add-one-row-to-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -197,4 +201,12 @@
 |  |
 | ------- |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
