@@ -26,6 +26,7 @@
 | [0219-contains-duplicate-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Array
 |  |
@@ -41,6 +42,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0704-binary-search) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -80,6 +82,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
@@ -117,6 +120,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
@@ -169,10 +173,12 @@
 ## Greedy
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
