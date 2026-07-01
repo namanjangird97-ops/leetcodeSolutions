@@ -15,7 +15,7 @@ public:
             long target = nums[j];
             currSum   += nums[j];
             
-            while((j-i+1)*target - currSum > k) {
+            if((j-i+1)*target - currSum > k) {
                 currSum -= nums[i];
                 i++;
             }
