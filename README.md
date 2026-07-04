@@ -176,6 +176,7 @@
 | [0814-binary-tree-pruning](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0872-leaf-similar-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Backtracking
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0112-path-sum) |
 | [0623-add-one-row-to-tree](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0623-add-one-row-to-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
@@ -213,6 +215,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -223,6 +226,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
