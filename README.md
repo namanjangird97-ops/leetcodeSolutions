@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
