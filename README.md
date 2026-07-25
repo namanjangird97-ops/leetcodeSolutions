@@ -24,6 +24,7 @@
 | [0076-minimum-window-substring](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -246,4 +247,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3620-network-recovery-pathways) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
