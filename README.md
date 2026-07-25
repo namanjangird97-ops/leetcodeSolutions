@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -18,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -75,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0509-fibonacci-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3700-number-of-zigzag-arrays-ii) |
