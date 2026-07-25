@@ -24,6 +24,7 @@
 | [0038-count-and-say](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0520-detect-capital](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0520-detect-capital) |
+| [0944-delete-columns-to-make-sorted](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1544-make-the-string-great) |
@@ -59,6 +60,7 @@
 | [0704-binary-search](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0944-delete-columns-to-make-sorted](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1110-delete-nodes-and-return-forest](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
