@@ -33,6 +33,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2109-adding-spaces-to-a-string](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2109-adding-spaces-to-a-string](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -229,6 +231,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Union-Find
 |  |
@@ -260,4 +263,8 @@
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1544-make-the-string-great) |
+## Simulation
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2109-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
