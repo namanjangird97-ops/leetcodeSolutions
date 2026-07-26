@@ -70,6 +70,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -116,6 +117,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -161,6 +163,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
@@ -220,6 +223,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +231,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/namanjangird97-ops/leetcodeSolutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
